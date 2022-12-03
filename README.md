@@ -1,6 +1,7 @@
 Termux static ffmpeg aarch64 
 
 Compiled by :
+
 1-Termux
 
 2-NDK from https://github.com/Lzhiyong/termux-ndk 
