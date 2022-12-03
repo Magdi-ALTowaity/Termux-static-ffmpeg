@@ -1,5 +1,3 @@
-#termux
-
 Termux static ffmpeg aarch64 
 
 Compiled by :
